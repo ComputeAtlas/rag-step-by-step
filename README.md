@@ -34,6 +34,7 @@ just started with Python.
 | Folder | Lesson |
 |---|---|
 | `01-why-rag/` | Why ChatGPT needs RAG |
+| `03-embeddings/` | Embeddings: turning text into searchable meaning |
 
 ## The data
 
