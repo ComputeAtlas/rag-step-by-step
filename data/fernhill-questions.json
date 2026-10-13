@@ -1,0 +1,1348 @@
+[
+  {
+    "id": "q001",
+    "question": "In which year was Fernhill Bikes founded?",
+    "answer": "2017",
+    "sources": [
+      "company.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q002",
+    "question": "In which town are Fernhill's headquarters, factory and flagship store?",
+    "answer": "Hollinwick",
+    "sources": [
+      "company.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q003",
+    "question": "How many authorised dealers did Fernhill's dealer network have on 1 January 2026?",
+    "answer": "64",
+    "sources": [
+      "company.md",
+      "policies/dealer-programme.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q004",
+    "question": "Within how many days of purchase must a bike bought in 2026 be registered for the battery warranty to grow to 4 years?",
+    "answer": "30 days",
+    "sources": [
+      "warranty-policy.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q005",
+    "question": "Within how many working days does Fernhill reply to a warranty claim for a bike bought in 2026?",
+    "answer": "2 working days",
+    "sources": [
+      "warranty-policy.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q006",
+    "question": "Where is the serial number of a Fernhill bike stamped?",
+    "answer": "Under the frame, next to the pedals",
+    "sources": [
+      "warranty-policy.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q007",
+    "question": "How many days after delivery can a new bike be returned for a full refund?",
+    "answer": "30 days",
+    "sources": [
+      "policies/returns-policy.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q008",
+    "question": "What is the greatest distance a new bike may have been ridden to qualify for a return?",
+    "answer": "100 km",
+    "sources": [
+      "policies/returns-policy.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q009",
+    "question": "How soon after receiving a returned bike does Fernhill pay the refund?",
+    "answer": "Within 10 working days",
+    "sources": [
+      "policies/returns-policy.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q010",
+    "question": "Within how many hours of delivery must damage to a bike be reported?",
+    "answer": "48 hours",
+    "sources": [
+      "policies/shipping-and-delivery.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q011",
+    "question": "How much does a third delivery attempt cost after two failed deliveries?",
+    "answer": "£35",
+    "sources": [
+      "policies/shipping-and-delivery.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q012",
+    "question": "By what time on a working day must a parts order be placed to be packed the same day?",
+    "answer": "Before 14:00",
+    "sources": [
+      "policies/shipping-and-delivery.md",
+      "parts/parts-catalogue-overview.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q013",
+    "question": "Between which temperatures may a Fernhill battery be charged?",
+    "answer": "5 to 40 °C",
+    "sources": [
+      "policies/battery-safety-and-transport.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q014",
+    "question": "At what charge level should a battery be stored if the bike will not be used for more than two weeks?",
+    "answer": "40 to 60%",
+    "sources": [
+      "policies/battery-safety-and-transport.md",
+      "faq.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q015",
+    "question": "Can a Fernhill battery be carried on a passenger flight?",
+    "answer": "No, all three Fernhill batteries are above 160 Wh",
+    "sources": [
+      "policies/battery-safety-and-transport.md",
+      "faq.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q016",
+    "question": "How many charge cycles do two top-ups of 50% count as?",
+    "answer": "One cycle",
+    "sources": [
+      "faq.md",
+      "policies/warranty-policy-2025.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q017",
+    "question": "Which courier partner delivers Fernhill bikes?",
+    "answer": "Northway Freight",
+    "sources": [
+      "policies/shipping-and-delivery.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q018",
+    "question": "What total load, including the rider, can the Cargo 700 carry?",
+    "answer": "200 kg",
+    "sources": [
+      "faq.md",
+      "manuals/cargo-700-owners-manual.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q019",
+    "question": "How many child seats can be fitted to the Cargo 700, and for what child weight?",
+    "answer": "Up to two, each for a child of up to 22 kg",
+    "sources": [
+      "faq.md",
+      "manuals/cargo-700-owners-manual.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q020",
+    "question": "What is Fernhill's customer support telephone number?",
+    "answer": "01632 960 410",
+    "sources": [
+      "company.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q021",
+    "question": "Does recycling an old Fernhill battery at a dealer cost anything?",
+    "answer": "No, it is free",
+    "sources": [
+      "policies/battery-safety-and-transport.md",
+      "policies/dealer-programme.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q022",
+    "question": "How large is the early termination fee if a Cargo 700 business plan ends before 36 months?",
+    "answer": "3 monthly payments per bike",
+    "sources": [
+      "policies/cargo-700-business-plan.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q023",
+    "question": "What is the minimum number of bikes for a Fernhill business plan?",
+    "answer": "3 bikes",
+    "sources": [
+      "policies/cargo-700-business-plan.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q024",
+    "question": "What is the nominal motor power of all three Fernhill models?",
+    "answer": "250 W",
+    "sources": [
+      "company.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q025",
+    "question": "At what speed does the motor stop assisting on Fernhill bikes?",
+    "answer": "25 km/h (15.5 mph)",
+    "sources": [
+      "company.md",
+      "faq.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q026",
+    "question": "Which Fernhill location has a viewing window onto the assembly line?",
+    "answer": "The Hollinwick Flagship",
+    "sources": [
+      "store-locations.md",
+      "company.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q027",
+    "question": "How many people did Fernhill employ at the end of 2025?",
+    "answer": "138",
+    "sources": [
+      "company.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q028",
+    "question": "Who must be at home to sign for a bike delivery?",
+    "answer": "Someone aged 18 or over",
+    "sources": [
+      "policies/shipping-and-delivery.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q029",
+    "question": "When is a new Ridge 500's free first check due?",
+    "answer": "After the first 100 km or 4 weeks, whichever comes first",
+    "sources": [
+      "manuals/ridge-500-owners-manual.md",
+      "policies/service-and-repair-pricing.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q030",
+    "question": "For how long after the last bike of a model is sold does Fernhill keep spare parts?",
+    "answer": "At least seven years",
+    "sources": [
+      "company.md",
+      "parts/parts-catalogue-overview.md"
+    ],
+    "category": "lookup"
+  },
+  {
+    "id": "q031",
+    "question": "What does error code E10 mean on the Cargo 700?",
+    "answer": "Charger fault: the charger voltage is outside the range (a 36 V charger triggers it)",
+    "sources": [
+      "manuals/cargo-700-owners-manual.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q032",
+    "question": "Which Fernhill model does battery pack FH-2219-B fit?",
+    "answer": "The Metro 300",
+    "sources": [
+      "parts/batteries-and-chargers.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q033",
+    "question": "What is part FH-2291-B?",
+    "answer": "The current 504 Wh (36 V, 14 Ah) battery pack for the Ridge 500",
+    "sources": [
+      "parts/batteries-and-chargers.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q034",
+    "question": "What is the price of brake pads FH-3105-B?",
+    "answer": "£29",
+    "sources": [
+      "parts/brakes-and-tyres.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q035",
+    "question": "What is the part number of the Cargo 700's charger?",
+    "answer": "FH-2320-A",
+    "sources": [
+      "parts/batteries-and-chargers.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q036",
+    "question": "What does error code E04 mean on the Metro 300?",
+    "answer": "Hub motor speed signal missing (cannot be fixed at home; see a dealer)",
+    "sources": [
+      "manuals/metro-300-owners-manual.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q037",
+    "question": "What does error code E12 mean on the Metro 300?",
+    "answer": "Not used on this model",
+    "sources": [
+      "manuals/metro-300-owners-manual.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q038",
+    "question": "What does error code E17 mean, and in which firmware version was it added?",
+    "answer": "Battery calibration drift; added in firmware v2.4",
+    "sources": [
+      "manuals/ridge-500-owners-manual.md",
+      "release-notes/firmware-v2.4.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q039",
+    "question": "What does error code E03 mean on the Metro 300?",
+    "answer": "Cadence sensor signal missing",
+    "sources": [
+      "manuals/metro-300-owners-manual.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q040",
+    "question": "What is part FH-5101-A and which model uses it?",
+    "answer": "The Dash 1 monochrome display, used on the Metro 300",
+    "sources": [
+      "parts/displays-motors-controllers.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q041",
+    "question": "What is part FH-6290-A?",
+    "answer": "A speed sensor with wheel magnet (Ridge 500 and Cargo 700)",
+    "sources": [
+      "parts/displays-motors-controllers.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q042",
+    "question": "Which safety notice covers FH-2310-A chargers made between March and June 2025?",
+    "answer": "SN-2025-03",
+    "sources": [
+      "policies/safety-notice-charger-2025.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q043",
+    "question": "What is part FH-4192-A?",
+    "answer": "A 24 in inner tube with Presta valve, for the Cargo 700",
+    "sources": [
+      "parts/brakes-and-tyres.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q044",
+    "question": "Which error code means the battery is not locked fully?",
+    "answer": "E18",
+    "sources": [
+      "manuals/ridge-500-owners-manual.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q045",
+    "question": "What does error code E14 mean?",
+    "answer": "The display and controller firmware do not match",
+    "sources": [
+      "manuals/ridge-500-owners-manual.md"
+    ],
+    "category": "part-number/error-code"
+  },
+  {
+    "id": "q046",
+    "question": "What torque is specified for the front axle nuts of the Metro 300?",
+    "answer": "25 Nm",
+    "sources": [
+      "manuals/metro-300-owners-manual.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q047",
+    "question": "What torque is specified for the Ridge 500's motor mounting bolts?",
+    "answer": "18 Nm (dealer only)",
+    "sources": [
+      "manuals/ridge-500-owners-manual.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q048",
+    "question": "What is the delivery surcharge for a bike delivered to Northern Ireland?",
+    "answer": "£79",
+    "sources": [
+      "policies/shipping-and-delivery.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q049",
+    "question": "How long does delivery of a bike to the Republic of Ireland take?",
+    "answer": "7 to 10 working days",
+    "sources": [
+      "policies/shipping-and-delivery.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q050",
+    "question": "What are the opening hours of the Stonehallow Store?",
+    "answer": "Tuesday to Saturday 9:30 to 17:30; closed Sunday and Monday",
+    "sources": [
+      "store-locations.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q051",
+    "question": "What is the telephone number of the Wexcombe Service Centre?",
+    "answer": "01632 960 404",
+    "sources": [
+      "store-locations.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q052",
+    "question": "According to the winter riding guide, what share of its normal range can you expect at -10 °C?",
+    "answer": "60%",
+    "sources": [
+      "manuals/winter-riding-guide.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q053",
+    "question": "How far can a fully loaded Cargo 700 go in Haul mode, according to the manual's range table?",
+    "answer": "Up to 30 km",
+    "sources": [
+      "manuals/cargo-700-owners-manual.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q054",
+    "question": "How many watt-hours per kilometre does a Ridge 500 use in Eco, according to the battery and charging guide?",
+    "answer": "4.6 Wh",
+    "sources": [
+      "manuals/battery-and-charging-guide.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q055",
+    "question": "How often should the brake pads of a Cargo 700 be checked?",
+    "answer": "Every 400 km",
+    "sources": [
+      "manuals/cargo-700-owners-manual.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q056",
+    "question": "What is the service exchange price of the Metro 300's hub motor (FH-6108-A)?",
+    "answer": "£219",
+    "sources": [
+      "parts/displays-motors-controllers.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q057",
+    "question": "How many bikes does the Fleet tier of the Cargo 700 business plan cover?",
+    "answer": "10 to 49 bikes",
+    "sources": [
+      "policies/cargo-700-business-plan.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q058",
+    "question": "How long is the Fernhill master technician course?",
+    "answer": "3 days",
+    "sources": [
+      "policies/dealer-programme.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q059",
+    "question": "On what date was firmware v2.1 released?",
+    "answer": "19 September 2023",
+    "sources": [
+      "release-notes/firmware-overview.md",
+      "release-notes/firmware-v2.1.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q060",
+    "question": "How long does it take to fit the mudguard set on a Ridge 500?",
+    "answer": "20 minutes",
+    "sources": [
+      "parts/accessories-and-fitting-guide.md"
+    ],
+    "category": "table"
+  },
+  {
+    "id": "q061",
+    "question": "How much cheaper is a replacement Cargo 700 battery for a business-plan customer than the catalogue price?",
+    "answer": "£100 (£499 instead of £599)",
+    "sources": [
+      "policies/cargo-700-business-plan.md",
+      "parts/batteries-and-chargers.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q062",
+    "question": "A 2023 Ridge 500 needs a new FH-2291-B battery. Which firmware version must the bike have?",
+    "answer": "v2.3 or later",
+    "sources": [
+      "parts/batteries-and-chargers.md",
+      "release-notes/firmware-v2.3.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q063",
+    "question": "What does a Cargo 700 owner pay to replace the motor at the service exchange price, including labour?",
+    "answer": "£495 (£399 plus 2 hours at £48)",
+    "sources": [
+      "parts/displays-motors-controllers.md",
+      "policies/service-and-repair-pricing.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q064",
+    "question": "What does a Metro 300 owner pay to replace the hub motor at the service exchange price, including labour?",
+    "answer": "£291 (£219 plus 1.5 hours at £48)",
+    "sources": [
+      "parts/displays-motors-controllers.md",
+      "policies/service-and-repair-pricing.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q065",
+    "question": "A customer's charger is an FH-2310-A with date code 0525. What should they do and which charger replaces it?",
+    "answer": "Stop using it; it is replaced free with an FH-2310-B under safety notice SN-2025-03",
+    "sources": [
+      "policies/safety-notice-charger-2025.md",
+      "parts/batteries-and-chargers.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q066",
+    "question": "A customer returns a new Ridge 500 within 30 days and Fernhill collects it by courier. How much is refunded if the bike cost the list price?",
+    "answer": "£3,224 (£3,299 minus the £75 collection fee)",
+    "sources": [
+      "policies/returns-policy.md",
+      "company.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q067",
+    "question": "Which Fernhill-owned stores and service centres can do Master Service work such as motor replacement?",
+    "answer": "Hollinwick Flagship, Brackenford Service Centre and Wexcombe Service Centre",
+    "sources": [
+      "store-locations.md",
+      "policies/dealer-programme.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q068",
+    "question": "A Cargo 700 on a Fernhill business plan is registered within 30 days. How long is its battery warranty under the 2026 policy?",
+    "answer": "4 years (with the 800-cycle limit unchanged)",
+    "sources": [
+      "policies/cargo-700-business-plan.md",
+      "warranty-policy.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q069",
+    "question": "What is the total cost of a replacement Metro 300 battery (current type) delivered by courier?",
+    "answer": "£344 (£329 plus £15 delivery)",
+    "sources": [
+      "parts/batteries-and-chargers.md",
+      "policies/shipping-and-delivery.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q070",
+    "question": "Which dealer levels can update firmware, and what does a firmware update cost?",
+    "answer": "Service and Master Service dealers; it is free",
+    "sources": [
+      "policies/dealer-programme.md",
+      "policies/service-and-repair-pricing.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q071",
+    "question": "Which firmware version added the charge cycle counter, and which version corrected how it counts?",
+    "answer": "v2.2 added it; v2.3 corrected it",
+    "sources": [
+      "release-notes/firmware-v2.2.md",
+      "release-notes/firmware-v2.3.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q072",
+    "question": "Which firmware version first supported the Cargo 700, and which assist level did it add?",
+    "answer": "v2.2; it added the Haul level",
+    "sources": [
+      "release-notes/firmware-v2.2.md",
+      "manuals/cargo-700-owners-manual.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q073",
+    "question": "What does error E13 mean on the Metro 300, and what is the part number of its front light?",
+    "answer": "A short in the front or rear light circuit; the front light is FH-8101-A",
+    "sources": [
+      "manuals/metro-300-owners-manual.md",
+      "parts/drivetrain-lights-accessories.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q074",
+    "question": "What does a Ridge 500 owner pay for a full service plus a new chain (parts at catalogue price)?",
+    "answer": "£143 (£109 service plus £34 chain)",
+    "sources": [
+      "policies/service-and-repair-pricing.md",
+      "parts/drivetrain-lights-accessories.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q075",
+    "question": "Is a Cargo 700 bought outright in 2026 and used for deliveries covered by the warranty?",
+    "answer": "No, only a Cargo 700 bought on a Fernhill business plan is covered for delivery use",
+    "sources": [
+      "warranty-policy.md",
+      "policies/cargo-700-business-plan.md"
+    ],
+    "category": "multi-document"
+  },
+  {
+    "id": "q076",
+    "question": "What is the most common topic across the resolved support tickets?",
+    "answer": "Battery range (9 of the 44 tickets)",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q077",
+    "question": "How many resolved support tickets are in the document set?",
+    "answer": "44",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q078",
+    "question": "Which Fernhill model appears in the most support tickets?",
+    "answer": "Ridge 500 (16 tickets)",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q079",
+    "question": "How many support tickets were resolved with advice only?",
+    "answer": "20",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q080",
+    "question": "How many support tickets are about brakes?",
+    "answer": "5",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q081",
+    "question": "How many support tickets were resolved with a firmware update?",
+    "answer": "6",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q082",
+    "question": "Which support agent handled the most tickets?",
+    "answer": "Hannah (10 tickets)",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q083",
+    "question": "How many support tickets were opened in 2026?",
+    "answer": "23",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q084",
+    "question": "How many support tickets mention safety notice SN-2025-03?",
+    "answer": "2",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q085",
+    "question": "How many support tickets involve the Cargo 700?",
+    "answer": "14",
+    "sources": [
+      "support/ticket-1001-range-half-in-winter.md",
+      "support/ticket-1002-metro-commute-hills.md",
+      "support/ticket-1003-metro-range-resets-after-battery-swap.md",
+      "support/ticket-1004-ridge-brakes-squeal.md",
+      "support/ticket-1005-ridge-e03-at-start.md",
+      "support/ticket-1006-ridge-puncture.md",
+      "support/ticket-1007-cargo-wrong-brake-pads.md",
+      "support/ticket-1008-metro-e04-hub-motor.md",
+      "support/ticket-1009-ridge-battery-health-58.md",
+      "support/ticket-1010-metro-charger-hot-recall.md",
+      "support/ticket-1011-ridge-charger-recall-check.md",
+      "support/ticket-1012-cargo-damaged-crate.md",
+      "support/ticket-1013-cargo-range-estimate-too-high.md",
+      "support/ticket-1014-metro-wont-charge-e09.md",
+      "support/ticket-1015-ridge-flicker-at-dusk.md",
+      "support/ticket-1016-ridge-e01-new-battery-old-bike.md",
+      "support/ticket-1017-cargo-e10-borrowed-charger.md",
+      "support/ticket-1018-metro-spongy-brakes.md",
+      "support/ticket-1019-ridge-range-estimate-care-mode.md",
+      "support/ticket-1020-cargo-delivery-use-2025.md",
+      "support/ticket-1021-metro-repeat-punctures.md",
+      "support/ticket-1022-highlands-surcharge.md",
+      "support/ticket-1023-cargo-e15-on-a-hill.md",
+      "support/ticket-1024-display-auto-off-five-minutes.md",
+      "support/ticket-1025-metro-range-soft-tyres.md",
+      "support/ticket-1026-cargo-brake-fade.md",
+      "support/ticket-1027-ridge-return-day-26.md",
+      "support/ticket-1028-metro-e11-after-fall.md",
+      "support/ticket-1029-bakery-starter-fleet.md",
+      "support/ticket-1030-metro-registered-battery-years.md",
+      "support/ticket-1031-ridge-boost-on-hills.md",
+      "support/ticket-1032-metro-registration-day-45.md",
+      "support/ticket-1033-cargo-service-reminder-2000.md",
+      "support/ticket-1034-cargo-return-too-heavy.md",
+      "support/ticket-1035-ridge-charge-stops-at-80.md",
+      "support/ticket-1036-cargo-wrong-inner-tube.md",
+      "support/ticket-1037-twelve-cargo-fleet-care.md",
+      "support/ticket-1038-metro-third-party-charger.md",
+      "support/ticket-1039-metro-late-damage-report.md",
+      "support/ticket-1040-cargo-loaded-range-table.md",
+      "support/ticket-1041-ridge-pads-wear-700km.md",
+      "support/ticket-1042-cargo-e14-after-controller.md",
+      "support/ticket-1043-ridge-2025-purchase-65-percent.md",
+      "support/ticket-1044-ridge-2025-frame-crack.md"
+    ],
+    "category": "whole-corpus"
+  },
+  {
+    "id": "q086",
+    "question": "A customer bought a Ridge 500 on 10 December 2025. How many full charge cycles does the battery warranty allow?",
+    "answer": "500 cycles (2025 policy)",
+    "sources": [
+      "policies/warranty-policy-2025.md",
+      "warranty-policy.md"
+    ],
+    "category": "conflicting-versions"
+  },
+  {
+    "id": "q087",
+    "question": "A customer bought a bike on 14 January 2026. Below what share of its original capacity is the battery counted as defective?",
+    "answer": "70% (2026 policy)",
+    "sources": [
+      "warranty-policy.md",
+      "policies/warranty-policy-2025.md"
+    ],
+    "category": "conflicting-versions"
+  },
+  {
+    "id": "q088",
+    "question": "On firmware v2.6, after how many minutes without use does the display switch itself off?",
+    "answer": "5 minutes",
+    "sources": [
+      "release-notes/firmware-v2.6.md",
+      "manuals/ridge-500-owners-manual.md",
+      "faq.md"
+    ],
+    "category": "conflicting-versions"
+  },
+  {
+    "id": "q089",
+    "question": "In which firmware version did Battery care mode (the 80% charge limit) actually arrive?",
+    "answer": "v2.5",
+    "sources": [
+      "release-notes/firmware-v2.5.md",
+      "release-notes/firmware-v2.4.md",
+      "release-notes/firmware-v2.3.md"
+    ],
+    "category": "conflicting-versions"
+  },
+  {
+    "id": "q090",
+    "question": "What is the latest Fernhill firmware version?",
+    "answer": "v2.6 (released 12 January 2026)",
+    "sources": [
+      "release-notes/firmware-v2.6.md",
+      "faq.md"
+    ],
+    "category": "conflicting-versions"
+  },
+  {
+    "id": "q091",
+    "question": "Who is the chief executive of Fernhill Bikes?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "q092",
+    "question": "How many bikes did Fernhill sell in 2025?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "q093",
+    "question": "What frame colours is the Ridge 500 available in?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "q094",
+    "question": "What is the price of the Ridge 500 in euros?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "q095",
+    "question": "What is the maximum load of the Metro 300's rear carrier?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "q096",
+    "question": "What torque should the Metro 300's seatpost clamp be tightened to?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "q097",
+    "question": "How many years of battery warranty does a bike bought in 2024 have?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "q098",
+    "question": "What is the telephone number of Fernhill's dealers in Germany?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "q099",
+    "question": "On what date will firmware v2.7 be released?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  },
+  {
+    "id": "q100",
+    "question": "What percentage discount from list price do Fernhill dealers get on parts?",
+    "answer": "Not in the documents",
+    "sources": [],
+    "category": "unanswerable"
+  }
+]
