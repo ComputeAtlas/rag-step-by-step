@@ -36,6 +36,7 @@ just started with Python.
 | `01-why-rag/` | Why ChatGPT needs RAG |
 | `02-first-rag/` | Your first RAG, end to end |
 | `03-embeddings/` | Embeddings: turning text into searchable meaning |
+| `04-vector-search/` | Vector search and vector databases |
 
 ## The data
 
