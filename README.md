@@ -37,6 +37,10 @@ just started with Python.
 | `02-first-rag/` | Your first RAG, end to end |
 | `03-embeddings/` | Embeddings: turning text into searchable meaning |
 | `04-vector-search/` | Vector search and vector databases |
+| `05-measuring-rag/` | Is it any good? Measuring a RAG system |
+| `06-parsing/` | Getting text out of PDFs, pages and tables |
+| `07-chunking/` | Chunking: how you cut decides what you find |
+| `08-hybrid-search/` | Hybrid search: when keywords beat vectors |
 
 ## The data
 

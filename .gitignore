@@ -4,4 +4,10 @@ __pycache__/
 .env
 .DS_Store
 02-first-rag/index/
+05-measuring-rag/index/
 chroma_db/
+08-hybrid-search/results/
+06-parsing/pdfs/
+06-parsing/scans/
+06-parsing/parsed/
+06-parsing/index/
