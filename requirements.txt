@@ -8,3 +8,4 @@ pdfplumber>=0.11
 pymupdf4llm>=1.28
 markdown>=3.0
 pillow>=11.0
+sentence-transformers>=5.0
