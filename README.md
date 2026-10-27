@@ -41,6 +41,7 @@ just started with Python.
 | `06-parsing/` | Getting text out of PDFs, pages and tables |
 | `07-chunking/` | Chunking: how you cut decides what you find |
 | `08-hybrid-search/` | Hybrid search: when keywords beat vectors |
+| `11-smarter-indexes/` | Smarter indexes: contextual retrieval, parent–child, summaries |
 
 ## The data
 
