@@ -1,0 +1,22 @@
+[
+ {"id": "o01", "same_as": "q013", "question": "is it bad to charge my battery when it's freezing outside?"},
+ {"id": "o02", "same_as": "q015", "question": "can i take my bike battery with me on holiday on a plane"},
+ {"id": "o03", "same_as": "q010", "question": "my new bike turned up with a dent, how quickly do i need to tell you"},
+ {"id": "o04", "same_as": "q008", "question": "i've done a few rides on it already, can i still send it back"},
+ {"id": "o05", "same_as": "q025", "question": "why does the motor stop pushing when i go fast"},
+ {"id": "o06", "same_as": "q006", "question": "where do i find the number that identifies my bike"},
+ {"id": "o07", "same_as": "q021", "question": "do you charge anything to take my old battery off my hands"},
+ {"id": "o08", "same_as": "q018", "question": "how much weight can i put on the cargo bike, me included"},
+ {"id": "o09", "same_as": "q028", "question": "do i have to be in when the bike gets delivered"},
+ {"id": "o10", "same_as": "q016", "question": "if i charge it halfway twice does that count as one full charge"},
+ {"id": "o11", "same_as": "q052", "question": "how much range do i lose when it's really cold, like minus ten"},
+ {"id": "o12", "same_as": "q055", "question": "how often should i look at the brake pads on the cargo"},
+ {"id": "o13", "same_as": "q030", "question": "will i still get parts in a few years if you stop making my bike"},
+ {"id": "o14", "same_as": "q009", "question": "how long till i see my money back after you get the bike"},
+ {"id": "o15", "same_as": "q011", "question": "i keep missing the delivery van, is there a charge"},
+ {"id": "o16", "same_as": "q004", "question": "how fast do i need to sign up my 2026 bike to get the longer battery cover"},
+ {"id": "o17", "same_as": "q026", "question": "where can i watch the bikes being built"},
+ {"id": "o18", "same_as": "q023", "question": "can a small shop with just two bikes join the business plan"},
+ {"id": "o19", "same_as": "q029", "question": "when should i bring my new ridge in for its first look-over"},
+ {"id": "o20", "same_as": "q012", "question": "if i order a part this morning will it go out today"}
+]
