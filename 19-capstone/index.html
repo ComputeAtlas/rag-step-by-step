@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Fernhill Bikes · Ask the docs</title>
+<style>
+  body { font: 18px/1.5 system-ui, sans-serif; max-width: 860px; margin: 32px auto; padding: 0 24px; color: #222; }
+  h1 { font-size: 24px; margin-bottom: 4px; }
+  .hint { color: #666; margin-top: 0; }
+  .turn { margin: 22px 0; }
+  .question { font-weight: 600; }
+  .answer { margin-top: 6px; white-space: pre-wrap; }
+  .answer a { color: #0b63c5; text-decoration: none; font-weight: 600; }
+  .sources { margin-top: 8px; font-size: 16px; color: #555; }
+  .sources a { display: block; color: #0b63c5; font-family: ui-monospace, monospace; }
+  .flag { margin-top: 6px; font-size: 16px; color: #a35200; }
+  .rewrite { font-size: 16px; color: #666; font-style: italic; }
+  form { display: flex; gap: 10px; margin-top: 24px; }
+  input { flex: 1; font: inherit; padding: 10px 12px; border: 1px solid #bbb; border-radius: 8px; }
+  button { font: inherit; padding: 10px 18px; border: 0; border-radius: 8px; background: #0b63c5; color: white; }
+</style>
+</head>
+<body>
+<h1>Fernhill Bikes · Ask the docs</h1>
+<p class="hint">Answers come only from Fernhill's documents. Click a number to see where it came from.</p>
+<div id="chat"></div>
+<form id="ask">
+  <input id="question" placeholder="Ask a question about your bike" autocomplete="off">
+  <button>Ask</button>
+</form>
+<script>
+const chat = [];  // the conversation so far, sent with every question
+
+// Turn "[2]" in the answer into a link to that source.
+function withLinks(text, sources) {
+  const safe = text.replace(/&/g, "&amp;").replace(/</g, "&lt;");
+  return safe.replace(/\[(\d+)\]/g, (match, n) => {
+    const source = sources[n - 1];
+    return source ? `<a href="/source/${source.number}" target="_blank">[${n}]</a>` : match;
+  });
+}
+
+document.getElementById("ask").addEventListener("submit", async (event) => {
+  event.preventDefault();
+  const box = document.getElementById("question");
+  const question = box.value.trim();
+  if (!question) return;
+  box.value = "";
+
+  const turn = document.createElement("div");
+  turn.className = "turn";
+  turn.innerHTML = `<div class="question"></div><div class="rewrite"></div><div class="answer"></div><div class="sources"></div>`;
+  turn.querySelector(".question").textContent = question;
+  document.getElementById("chat").appendChild(turn);
+
+  const response = await fetch("/ask", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ question: question, chat: chat }),
+  });
+
+  // Read the answer as it arrives: one JSON message per line.
+  const reader = response.body.getReader();
+  const decoder = new TextDecoder();
+  let waiting = "";
+  let answer = "";
+  let sources = [];
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    waiting += decoder.decode(value, { stream: true });
+    const lines = waiting.split("\n");
+    waiting = lines.pop();  // the last line may not be complete yet
+    for (const line of lines) {
+      const message = JSON.parse(line);
+      if (message.question && message.question !== question) {
+        turn.querySelector(".rewrite").textContent = "Searched for: " + message.question;
+      }
+      if (message.sources) {
+        sources = message.sources;
+        turn.querySelector(".sources").innerHTML = sources
+          .map((s, i) => `<a href="/source/${s.number}" target="_blank">[${i + 1}] ${s.source}</a>`).join("");
+      }
+      if (message.text) {
+        answer += message.text;
+        turn.querySelector(".answer").innerHTML = withLinks(answer, sources);
+      }
+      if (message.problems && message.problems.length) {
+        const flag = document.createElement("div");
+        flag.className = "flag";
+        flag.textContent = "Check this answer: " + message.problems.join("; ");
+        turn.appendChild(flag);
+      }
+    }
+  }
+  chat.push({ role: "customer", text: question }, { role: "assistant", text: answer });
+});
+</script>
+</body>
+</html>

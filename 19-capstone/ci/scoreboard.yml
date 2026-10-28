@@ -1,0 +1,28 @@
+# A sample GitHub Actions workflow: run the app's scoreboard on demand.
+# It is NOT active here. To use it, copy this file to .github/workflows/scoreboard.yml in your own
+# repository and add your OpenAI key as a repository secret named OPENAI_API_KEY
+# (Settings -> Secrets and variables -> Actions). Never write the key into a file.
+# A run makes about 200 model calls (about 35 cents with gpt-5.4-mini), so it only runs when you
+# start it by hand (workflow_dispatch). Add "pull_request:" under "on:" to run it on every change.
+name: RAG scoreboard
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scoreboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install openai numpy rank_bm25   # all the app needs
+      - name: Build the index
+        run: python 19-capstone/ingest.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Run the 100 test questions (fails if the score drops below the line)
+        run: python 19-capstone/evaluate.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
