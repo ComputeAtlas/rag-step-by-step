@@ -49,6 +49,7 @@ just started with Python.
 | `15-graphrag/` | GraphRAG: questions about everything at once |
 | `16-multimodal-rag/` | Multimodal RAG: images, charts and scanned pages |
 | `17-rag-vs-long-context/` | RAG vs long context vs fine-tuning |
+| `18-rag-in-production/` | RAG in production: speed, cost, freshness, security |
 
 ## The data
 
