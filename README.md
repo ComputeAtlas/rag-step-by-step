@@ -45,6 +45,7 @@ just started with Python.
 | `10-query-rewriting/` | Asking better questions: query rewriting, HyDE, multi-query |
 | `11-smarter-indexes/` | Smarter indexes: contextual retrieval, parent–child, summaries |
 | `12-generation/` | Generation: grounded answers, citations, "I don't know" |
+| `14-agentic-rag/` | Agentic RAG: letting the model decide when to search |
 
 ## The data
 
