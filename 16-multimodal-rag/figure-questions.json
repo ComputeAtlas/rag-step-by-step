@@ -1,0 +1,8 @@
+[
+ {"id": "f01", "question": "What torque do the clamp screws of the Ridge 500's display bracket need?", "answer": "3 Nm", "sources": ["figures/display-bracket.png"], "category": "figure"},
+ {"id": "f02", "question": "Which size of hex key do you need for the Ridge 500's display bracket screws?", "answer": "2.5 mm", "sources": ["figures/display-bracket.png"], "category": "figure"},
+ {"id": "f03", "question": "In Fernhill's battery test, how much capacity is left after 400 full charge cycles?", "answer": "90%", "sources": ["figures/battery-capacity.png"], "category": "figure"},
+ {"id": "f04", "question": "In Fernhill's battery test, after how many full charge cycles is 82% of the capacity left?", "answer": "800 cycles", "sources": ["figures/battery-capacity.png"], "category": "figure"},
+ {"id": "f05", "question": "What is the maximum load on the Metro 300's rear carrier?", "answer": "25 kg", "sources": ["figures/carrier-load.png"], "category": "figure"},
+ {"id": "f06", "question": "How many pannier bags can the Metro 300's rear carrier take?", "answer": "2 (one each side)", "sources": ["figures/carrier-load.png"], "category": "figure"}
+]
