@@ -44,6 +44,7 @@ just started with Python.
 | `09-reranking/` | Reranking: the second look |
 | `10-query-rewriting/` | Asking better questions: query rewriting, HyDE, multi-query |
 | `11-smarter-indexes/` | Smarter indexes: contextual retrieval, parent–child, summaries |
+| `12-generation/` | Generation: grounded answers, citations, "I don't know" |
 
 ## The data
 
