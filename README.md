@@ -46,6 +46,7 @@ just started with Python.
 | `11-smarter-indexes/` | Smarter indexes: contextual retrieval, parent–child, summaries |
 | `12-generation/` | Generation: grounded answers, citations, "I don't know" |
 | `14-agentic-rag/` | Agentic RAG: letting the model decide when to search |
+| `15-graphrag/` | GraphRAG: questions about everything at once |
 
 ## The data
 
